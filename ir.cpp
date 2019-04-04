@@ -51,8 +51,7 @@ enum class RemoteButton {
 	  NUM9 = 0x1A
 };
 
-//% color=50 weight=19
-//% icon="\uf1eb"
+//% color=80 weight=19
 namespace MiJia_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
