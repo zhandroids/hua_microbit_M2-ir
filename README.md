@@ -1,8 +1,8 @@
  # mbit_IR for micro-bit
 
-Extension for HuaRobot_M2_IR
+米加盒子红外接收扩展
 
-Note: IR receiver for HuaRobot_M2
+Note: IR receiver for mijia
 
 ## License
 
