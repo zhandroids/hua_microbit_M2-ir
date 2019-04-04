@@ -47,7 +47,7 @@
 	  NUM8 = 0x98,
 	  NUM9 = 0x58,
     }
-declare namespace HuaRobot_M2_IR {
+declare namespace MiJia_IR {
 }
 
 // Auto-generated. Do not edit. Really.

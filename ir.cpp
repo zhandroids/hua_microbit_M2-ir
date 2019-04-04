@@ -53,7 +53,7 @@ enum class RemoteButton {
 
 //% color=50 weight=19
 //% icon="\uf1eb"
-namespace HuaRobot_M2_IR { 
+namespace MiJia_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 
