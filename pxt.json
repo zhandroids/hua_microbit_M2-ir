@@ -1,7 +1,7 @@
 {
-    "name": "HuaRobot_M2_IR",
+    "name": "mijia-pxt-ir",
     "version": "1.0.0",
-    "description": "Extension for HuaRobot M1 IR receiver module",
+    "description": "Extension for mijia IR receiver module",
     "license": "MIT",
     "dependencies": {
         "core": "*"
