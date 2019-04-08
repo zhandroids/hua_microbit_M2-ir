@@ -47,7 +47,7 @@
 	  NUM8 = 0x98,
 	  NUM9 = 0x58,
     }
-declare namespace MiJia_IR {
+declare namespace IRremote {
 }
 
 // Auto-generated. Do not edit. Really.

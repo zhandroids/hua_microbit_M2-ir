@@ -1,7 +1,7 @@
 {
-    "name": "mijia-pxt-ir",
+    "name": "pxt-IRremote",
     "version": "1.0.0",
-    "description": "Extension for mijia IR receiver module",
+    "description": "米加盒子接收红外软件包",
     "license": "MIT",
     "dependencies": {
         "core": "*"

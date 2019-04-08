@@ -52,7 +52,7 @@ enum class RemoteButton {
 };
 
 //% color=80 weight=19
-namespace MiJia_IR { 
+namespace IRremote { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 
