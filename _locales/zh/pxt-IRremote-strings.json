@@ -1,5 +1,5 @@
 {
-  "IRremote.init|block": "链接红外设备到引脚 %pin",
+  "IRremote.init|block": "连接红外设备到引脚 %pin",
   "IRremote.onPressEvent|block": "当 |%btn| 按钮被按下",
   "IRremote|block": "红外遥控",
   "{id:category}IRremote": "红外遥控",
