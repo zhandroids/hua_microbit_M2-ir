@@ -1,4 +1,4 @@
 {
-  "IRremote.init": "初始化红外接收",
+  "IRremote.init": "初始化红外遥控",
   "IRremote.onPressEvent": "按钮被按下"
 }

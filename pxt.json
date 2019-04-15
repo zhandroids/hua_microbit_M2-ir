@@ -1,6 +1,6 @@
 {
     "name": "pxt-IRremote",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "米加盒子接收红外软件包",
     "license": "MIT",
     "dependencies": {

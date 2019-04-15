@@ -24,12 +24,18 @@
     }
 
 
-    declare enum RemoteButton {
+declare enum RemoteButton {
+        //% blockId="Up" block="mUp"
         Up = 0x40,
+        //% blockId="Left" block="mLeft"
         Left = 0x9,
+        //% blockId="Right" block="mRight"
         Right = 0x15,
+        //% blockId="Down" block="mDown"
         Down = 0x43,
+        //% blockId="Front" block="mFront"
         Front = 0xd,
+        //% blockId="Back" block="mBack"
         Back = 0x44
     }
 declare namespace IRremote {
