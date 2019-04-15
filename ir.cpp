@@ -28,12 +28,12 @@ enum class Pins{
 };
 
 enum class RemoteButton {
-	 Up = 0x64,
+	 Up = 0x40,
 	  Left = 0x9,
 	  Right = 0x15,
-      Down = 0x4,
-      Front = 0x22,
-      Back = 0x68
+      Down = 0x43,
+      Front = 0xd,
+      Back = 0x44
 };
 
 //% color=80 weight=19
