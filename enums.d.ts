@@ -25,27 +25,12 @@
 
 
     declare enum RemoteButton {
-	  Power = 0x0,
-	  Up = 0x1,
-	  Left = 0x2,
-	  Right = 0x3,
-	  Down = 0x4,
-	  Light = 0x5,
-	  BEEP = 0x6,
-	  Pause = 0x7,
-	  Setting = 0x8,
-	  TLeft = 0x9,
-	  TRight = 0x50,
-	  NUM0 = 0xB0,
-	  NUM1 = 0x08,
-	  NUM2 = 0x88,
-	  NUM3 = 0x48,
-	  NUM4 = 0x28,
-	  NUM5 = 0xA8,
-	  NUM6 = 0x68,
-	  NUM7 = 0x18,
-	  NUM8 = 0x98,
-	  NUM9 = 0x58,
+        Up = 0x64,
+        Left = 0x9,
+        Right = 0x15,
+        Down = 0x4,
+        Front = 0x22,
+        Back = 0x68
     }
 declare namespace IRremote {
 }
